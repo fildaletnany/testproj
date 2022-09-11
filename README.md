@@ -16,3 +16,4 @@ git commit -a -- ulozi zmeny provedene na pc a otevre nejaky pojebany rozhrani k
 git push -- nahraje lokalni soubory vybrany v "git commit" na hlavni repository
 
 ls -- zobrazi vsechny soubory a slozky
+gflsdjkhnglkyjsdhgldykjngblkhjfdy
