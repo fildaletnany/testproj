@@ -1,6 +1,14 @@
 # testproj
+tutorial:
+1)stahni si git bash tady: https://git-scm.com/downloads
+2)nainstaluj gitbash
+3)otevri gitbash
+4)mas hotovo
+
+pro naklonovani projektu do pc viz commandy
+
 commandy:
-git clone <nazev_repository> -- naklonuje repository do pc
+git clone <nazev_repository> -- naklonuje hlavni github repository do pc
 git pull -- updateuje lokalni soubory podle repositorty na githubu
 cd <slozka> -- otevre slozku
 start <nazev_souboru> -- otevre soubor v defaultnim editoru napriklad sublime nebo notepad
